@@ -50,7 +50,9 @@ Rename-Item .\Ubuntu.appx Ubuntu.zip
 
 Expand-Archive .\Ubuntu.zip -Verbose
 
-### Entre no explorer (navegador de pastas do windows) e acesse o arquivo ubuntu2004.exe. 
+### Instalar o Ubuntu
+
+Entre no explorer (navegador de pastas do windows) e acesse o arquivo ubuntu2004.exe. 
 
 Abrar o arquivo e experie ele instalar. No final você deverá inserir um username e password.
 
