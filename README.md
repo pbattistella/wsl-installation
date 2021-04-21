@@ -3,9 +3,13 @@
 # Pré-condições
 Veja se seu Windows 10 está na versão 2004 ou superior.
 Para verificar a versão acesse:
+
 -Menu de Notificações (próximo ao relógio do windows)
+
 -Todas as configurações
+
 -Sistema
+
 -Sobre
 
 Caso não seja a versão 2004, baixe ela: https://go.microsoft.com/fwlink/?LinkID=799445
