@@ -2,7 +2,7 @@
 
 # Pré-condições
 Veja se seu Windows 10 está na versão 2004 ou superior.
-Para verificar a versão acesse:
+## Para verificar a versão acesse:
 
 -Menu de Notificações (próximo ao relógio do windows)
 
@@ -16,7 +16,7 @@ Caso não seja a versão 2004, baixe ela: https://go.microsoft.com/fwlink/?LinkI
 
 ## Habilete o WSL para rodar no Windows 10
 
-Abra o Windows Terminal ou PowerShell como ADMINISTRADOR e execute os seguintes comandos:
+### Abra o Windows Terminal ou PowerShell como ADMINISTRADOR e execute os seguintes comandos:
 
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
