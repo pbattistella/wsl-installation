@@ -1,6 +1,6 @@
-#Instalação do WSL no Windows 10
+# Instalação do WSL no Windows 10
 
-#Pré-condições
+# Pré-condições
 Veja se seu Windows 10 está na versão 2004 ou superior.
 Para verificar a versão acesse:
 -Menu de Notificações (próximo ao relógio do windows)
@@ -10,7 +10,7 @@ Para verificar a versão acesse:
 
 Caso não seja a versão 2004, baixe ela: https://go.microsoft.com/fwlink/?LinkID=799445
 
-#Habilete o WSL para rodar no Windows 10
+## Habilete o WSL para rodar no Windows 10
 
 Abra o Windows Terminal ou PowerShell como ADMINISTRADOR e execute os seguintes comandos:
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
@@ -18,7 +18,7 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 (Referência dos passos acima caso tenha dúvida: https://github.com/codeedu/wsl2-docker-quickstart)
 
-#Baixando e instalando o Ubuntu manualmente
+# Baixando e instalando o Ubuntu manualmente
 
 Digite no Windows Terminal ou PowerShell.
 Criar pasta do ubuntu no disco desejado:
