@@ -54,6 +54,6 @@ Expand-Archive .\Ubuntu.zip -Verbose
 
 Entre no explorer (navegador de pastas do windows) e acesse o arquivo ubuntu2004.exe. 
 
-Abrar o arquivo e experie ele instalar. No final você deverá inserir um username e password.
+Abrar o arquivo e espere a instalação ser executada. No final você deverá inserir um username e password.
 
 Depois você podera utilizar o Windows Terminal como terminal do linux sem problemas.
